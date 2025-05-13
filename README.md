@@ -47,6 +47,15 @@ pip install youtube_transcript_api google-api-python-client scikit-learn matplot
    - Perform topic modeling and detect chapter points
    - Output final chapters with timestamps and titles
 
+## Project Structure
+
+```
+.
+├── video_chaptering.py     # Coding file
+├── README.md               # Project documentation
+└── transcript.csv          # My ouput transcript                
+```
+
 ## 📂 Output
 
 - A CSV file containing transcript segments
