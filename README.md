@@ -51,9 +51,9 @@ pip install youtube_transcript_api google-api-python-client scikit-learn matplot
 
 ```
 .
-├── video_chaptering.py     # Coding file
 ├── README.md               # Project documentation
-└── transcript.csv          # My ouput transcript                
+├── transcript.csv          # My ouput transcript 
+└── video_chaptering.py     # Coding file                  
 ```
 
 ## 📂 Output
