@@ -61,6 +61,15 @@ pip install youtube_transcript_api google-api-python-client scikit-learn matplot
 - A CSV file containing transcript segments
 - Console output showing identified chapters with timestamps and topic labels
 
+## 📊 Visualizations
+
+### 🔹 Text Length Distribution
+![Text Length Distribution](https://github.com/user-attachments/assets/b63a1801-f1de-4197-bf16-fd6309f897ac)
+
+### 🔹 Top 20 Most Common Words
+![Most Common Words](https://github.com/user-attachments/assets/1a45c203-8025-4281-b99a-6e105f0b6764)
+
+
 ## 📸 Sample Output
 
 ```
